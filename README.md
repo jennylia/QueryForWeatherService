@@ -1,5 +1,10 @@
-Welcome to the AWS CodeStar sample web service
+Welcome to the weather query service. 
 ==============================================
+Usage:
+
+http://localhost:3000/?city=name of city
+i.e.
+http://localhost:3000/?city=vancouver
 
 This sample code helps get you started with a simple Express web service
 deployed by AWS CloudFormation to AWS Lambda and Amazon API Gateway.
